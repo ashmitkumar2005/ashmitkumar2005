@@ -14,15 +14,32 @@ p, li {
 }
 </style>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=SF+Pro+Display&size=26&pause=900&color=22C55E&center=true&vCenter=true&width=800&lines=Automation+Systems+%7C+AI+Utilities;Clean+CLI+Tools+%7C+Workflow+Bots;Engineering+with+Design+Intent" />
+<p align="center" style="
+  font-family: -apple-system, BlinkMacSystemFont, 'SF Pro Display', 'SF Pro Text', Helvetica, Arial, sans-serif;
+  font-weight: 600;
+  font-size: 34px;
+  letter-spacing: -0.4px;
+  margin-bottom: 6px;
+">
+  Ashmit — Automation • AI • Tooling
 </p>
 
-<br/>
+<p align="center">
+  <img 
+    src="https://readme-typing-svg.demolab.com?font=SF+Pro+Display&size=22&pause=900&color=22C55E&center=true&vCenter=true&width=800&lines=Automation+Systems+%7C+AI+Utilities;Clean+CLI+Tools+%7C+Workflow+Bots;Engineering+with+Design+Intent"
+  />
+</p>
 
-<p align="center" style="font-size:16px; max-width:760px; line-height:1.6;">
-I build automation-first tools, AI-assisted utilities, and clean CLI experiences that feel native — inspired by the calm, minimal aesthetic of macOS.  
-Smooth edges, soft gradients, and frictionless workflows.
+<p align="center" style="
+  font-family: -apple-system, BlinkMacSystemFont, 'SF Pro Text', Helvetica, Arial, sans-serif;
+  font-size: 16px;
+  max-width: 780px;
+  line-height: 1.55;
+  color: #c9ced8;
+  margin-top: 10px;
+">
+  I build automation-first tools, AI-assisted utilities, and clean CLI experiences that feel native —  
+  inspired by the calm, minimal aesthetic of macOS.
 </p>
 
 <br/><br/>
