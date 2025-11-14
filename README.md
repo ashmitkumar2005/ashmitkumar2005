@@ -1,129 +1,75 @@
-<!-- ===================== MAC-STYLE README WITH SF PRO FONT STACK ===================== -->
+![Hero Banner](https://capsule-render.vercel.app/api?type=waving&height=220&text=Ashmit%20—%20Automation%20•%20AI%20•%20Tooling&fontSize=36&fontAlign=50&fontAlignY=40&color=0:6B9BF3,50:B38CF7,100:FF7EC3&textBg=false&desc=Calm%20interfaces.%20Useful%20automation.%20Native-feel%20tools.&descAlign=50&descAlignY=65&section=header)
 
-<style>
-body {
-  font-family: -apple-system, BlinkMacSystemFont, "SF Pro Display", "SF Pro Text", "Helvetica Neue", Helvetica, Arial, sans-serif;
-}
-h1, h2, h3, h4 {
-  font-weight: 600;
-  letter-spacing: -0.3px;
-}
-p, li {
-  font-weight: 400;
-  letter-spacing: -0.2px;
-}
-</style>
+[![Typing Title](https://readme-typing-svg.demolab.com?font=SF+Pro+Display&size=22&pause=900&color=7C93F9&center=true&vCenter=true&width=800&lines=Automation+Systems+%7C+AI+Utilities;Clean+CLI+Tools+%7C+Workflow+Bots;Engineering+with+Design+Intent)](https://github.com/ashmitkumar2005)
 
-<p align="center" style="
-  font-family: -apple-system, BlinkMacSystemFont, 'SF Pro Display', 'SF Pro Text', Helvetica, Arial, sans-serif;
-  font-weight: 600;
-  font-size: 34px;
-  letter-spacing: -0.4px;
-  margin-bottom: 6px;
-">
-  Ashmit — Automation • AI • Tooling
-</p>
+I build automation‑first tools, AI‑assisted utilities, and clean CLI experiences that feel native—minimal, calm, and intentional.
 
-<p align="center">
-  <img 
-    src="https://readme-typing-svg.demolab.com?font=SF+Pro+Display&size=22&pause=900&color=22C55E&center=true&vCenter=true&width=800&lines=Automation+Systems+%7C+AI+Utilities;Clean+CLI+Tools+%7C+Workflow+Bots;Engineering+with+Design+Intent"
-  />
-</p>
+---
 
-<p align="center" style="
-  font-family: -apple-system, BlinkMacSystemFont, 'SF Pro Text', Helvetica, Arial, sans-serif;
-  font-size: 16px;
-  max-width: 780px;
-  line-height: 1.55;
-  color: #c9ced8;
-  margin-top: 10px;
-">
-  I build automation-first tools, AI-assisted utilities, and clean CLI experiences that feel native —  
-  inspired by the calm, minimal aesthetic of macOS.
-</p>
+## What I Do
 
-<br/><br/>
+> Focused, reliable systems that blend into your workflow.
 
-## 🚀 What I Do
-- Automation systems designed to disappear into your workflow  
-- Browser-task bots with nearly zero UI  
+- Automation systems that disappear into daily routines  
+- Browser task bots with near‑zero UI, predictable behavior  
 - Clean CLI tools with instant feedback loops  
-- Micro web utilities built for one job, done perfectly  
-- Lightweight AI layers that enhance real systems  
+- Micro web utilities built for one job—done perfectly  
+- Lightweight AI layers that enhance real systems
 
-<br/><br/>
+---
 
-## 🛠 Tech Stack
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-0e1117?style=for-the-badge&logo=python&logoColor=22C55E" />
-  <img src="https://img.shields.io/badge/JavaScript-0e1117?style=for-the-badge&logo=javascript" />
-  <img src="https://img.shields.io/badge/Node.js-0e1117?style=for-the-badge&logo=node.js" />
-  <img src="https://img.shields.io/badge/HTML5-0e1117?style=for-the-badge&logo=html5" />
-  <img src="https://img.shields.io/badge/CSS3-0e1117?style=for-the-badge&logo=css3" />
-  <br/>
-  <img src="https://img.shields.io/badge/Linux-0e1117?style=for-the-badge&logo=linux" />
-  <img src="https://img.shields.io/badge/Git-0e1117?style=for-the-badge&logo=git" />
-  <img src="https://img.shields.io/badge/VS%20Code-0e1117?style=for-the-badge&logo=visualstudiocode" />
-  <img src="https://img.shields.io/badge/Shell-0e1117?style=for-the-badge&logo=gnubash" />
-  <img src="https://img.shields.io/badge/Automation-0e1117?style=for-the-badge&logo=googlecloud" />
-</p>
+## Tech Stack
 
-<br/><br/>
+| Languages | Runtime | Frontend | DevOps | Tools |
+|---|---|---|---|---|
+| ![Python](https://cdn.simpleicons.org/python/7C93F9) Python | ![Node.js](https://cdn.simpleicons.org/nodedotjs/7C93F9) Node.js | ![HTML5](https://cdn.simpleicons.org/html5/7C93F9) HTML5 | ![Linux](https://cdn.simpleicons.org/linux/7C93F9) Linux | ![Git](https://cdn.simpleicons.org/git/7C93F9) Git |
+| ![JavaScript](https://cdn.simpleicons.org/javascript/7C93F9) JavaScript |  | ![CSS3](https://cdn.simpleicons.org/css3/7C93F9) CSS3 |  | ![Visual Studio Code](https://cdn.simpleicons.org/visualstudiocode/7C93F9) VS Code |
+|  |  |  |  | ![GNU Bash](https://cdn.simpleicons.org/gnubash/7C93F9) Shell |
 
-## ✨ Featured Project
+Caption: A compact grid of tools I use to ship quiet, dependable software.
 
-### 🎧 FreqCast — Real-Time Creative Streaming
-A real-time streaming platform where creators broadcast their unique *zayka* through personal frequencies — and listeners tune in instantly.
+---
 
-<p align="center">
-  <img 
-    src="https://github.com/user-attachments/assets/fcf57c3d-c51a-44ce-9400-c20a7fd3f4c6"
-    alt="FreqCast Screenshot"
-    style="max-width:780px; border-radius:20px; box-shadow:0 8px 24px rgba(0,0,0,0.35);" 
-  />
-</p>
+## Projects Showcase
 
-<p align="center">
-  <a href="https://github.com/ashmitkumar2005/freqcast" style="font-size:16px;">🔗 View Repository</a>
-</p>
+### FreqCast — Real‑Time Creative Streaming
+A real‑time platform where creators broadcast their unique zayka through personal frequencies—and listeners tune in instantly.
 
-<br/><br/>
+![FreqCast Screenshot](https://github.com/user-attachments/assets/fcf57c3d-c51a-44ce-9400-c20a7fd3f4c6)
 
-## 📊 GitHub Stats
-<p align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api?username=ashmitkumar2005&show_icons=true&theme=react&hide_border=true"
-    style="max-width:100%; border-radius:16px;" 
-  />
-  <br/><br/>
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashmitkumar2005&layout=compact&theme=react&hide_border=true"
-    style="max-width:420px; border-radius:14px;" 
-  />
-</p>
+- Repo: https://github.com/ashmitkumar2005/freqcast  
+- Focus: Fluid UX, latency‑aware streaming, and a calm listening experience
 
-<br/><br/>
+Caption: Framed like an Apple preview, emphasizing clarity and breathing room.
 
-## 🟡 Pac-Man on My Contribution Graph
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ashmitkumar2005/ashmitkumar2005/output/pacman-contribution-graph-dark.svg">
-    <img src="https://raw.githubusercontent.com/ashmitkumar2005/ashmitkumar2005/output/pacman-contribution-graph.svg" style="max-width:780px;" />
-  </picture>
-</p>
+---
 
-<br/><br/>
+## GitHub Highlights
 
-## 🔗 Social & Contact
-<p align="center">
-  <a href="https://ashmit-kumar.vercel.app">Portfolio</a> •
-  <a href="https://linkedin.com/in/ashmitkumar2005">LinkedIn</a> •
-  <a href="https://x.com/ashmitkumar2005">X</a> •
-  <a href="mailto:ashmitkumarj2905@gmail.com">Email</a>
-</p>
+![Stats](https://github-readme-stats.vercel.app/api?username=ashmitkumar2005&show_icons=true&theme=transparent&hide_border=true&title_color=7C93F9&icon_color=7C93F9&text_color=9aa0a6)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ashmitkumar2005&layout=compact&theme=transparent&hide_border=true&title_color=7C93F9&text_color=9aa0a6)
 
-<br/><br/>
+Subtle fun:
 
-## 🧪 Masala — Subtle & Classy
-Tiny touches that matter:  
-clean terminal prompts, predictable automation, silent failure handling, and tools that don't shout — they flow.
+![Pac‑Man Contribution Graph](https://raw.githubusercontent.com/ashmitkumar2005/ashmitkumar2005/output/pacman-contribution-graph.svg)
+
+---
+
+## Masala — Subtle & Classy
+
+Quiet touches that matter: clean terminal prompts, predictable automation, silent failure handling, tools that don’t shout—they flow.
+
+---
+
+## Connect
+
+- Portfolio: https://ashmit-kumar.vercel.app  
+- LinkedIn: https://linkedin.com/in/ashmitkumar2005  
+- X: https://x.com/ashmitkumar2005  
+- Email: mailto:ashmitkumarj2905@gmail.com
+
+---
+
+Built with ♥ on macOS‑inspired design.
+
+![Footer Wave](https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:6B9BF3,50:B38CF7,100:FF7EC3)
