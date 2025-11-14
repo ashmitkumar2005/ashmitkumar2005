@@ -30,7 +30,13 @@ I build automation‑first tools, AI‑assisted utilities, and clean CLI experie
 
 **Commit. Eat. Repeat.**
 
-![Pac‑Man Contribution Graph](https://raw.githubusercontent.com/ashmitkumar2005/ashmitkumar2005/output/pacman-contribution-graph.svg)
+## ![Pac‑Man Contribution Graph](https://raw.githubusercontent.com/ashmitkumar2005/ashmitkumar2005/output/pacman-contribution-graph.svg)
+
+### 🎮 Pac-Man on the Contribution Graph (Ultra Smooth)
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/ashmitkumar2005/ashmitkumar2005/output/pacman.gif" width="100%" />
+</p>
 
 ## GitHub Highlights
 
