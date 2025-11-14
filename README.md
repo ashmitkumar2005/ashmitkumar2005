@@ -36,13 +36,15 @@ Right now, I’m focused on building a strong base in:
 <div align="center">
 
 <img src="https://img.shields.io/badge/Python-05122A?style=for-the-badge&logo=python" />
-<img src="https://img.shields.io/badge/C++-05122A?style=for-the-badge&logo=c%2B%2B" />
 <img src="https://img.shields.io/badge/JavaScript-05122A?style=for-the-badge&logo=javascript" />
+<img src="https://img.shields.io/badge/HTML5-05122A?style=for-the-badge&logo=html5" />
+<img src="https://img.shields.io/badge/CSS3-05122A?style=for-the-badge&logo=css3" />
 <br/>
 <img src="https://img.shields.io/badge/Linux-05122A?style=for-the-badge&logo=linux" />
 <img src="https://img.shields.io/badge/Git-05122A?style=for-the-badge&logo=git" />
 <img src="https://img.shields.io/badge/VS%20Code-05122A?style=for-the-badge&logo=visualstudiocode" />
-<img src="https://img.shields.io/badge/Neovim-05122A?style=for-the-badge&logo=neovim" />
+<img src="https://img.shields.io/badge/Automation%20Tools-05122A?style=for-the-badge&logo=googlecloud" />
+<img src="https://img.shields.io/badge/Shell%20Scripting-05122A?style=for-the-badge&logo=gnubash" />
 
 </div>
 
