@@ -1,4 +1,18 @@
-<!-- ===================== CLEAN MACOS-INSPIRED README ===================== -->
+<!-- ===================== MAC-STYLE README WITH SF PRO FONT STACK ===================== -->
+
+<style>
+body {
+  font-family: -apple-system, BlinkMacSystemFont, "SF Pro Display", "SF Pro Text", "Helvetica Neue", Helvetica, Arial, sans-serif;
+}
+h1, h2, h3, h4 {
+  font-weight: 600;
+  letter-spacing: -0.3px;
+}
+p, li {
+  font-weight: 400;
+  letter-spacing: -0.2px;
+}
+</style>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=SF+Pro+Display&size=26&pause=900&color=22C55E&center=true&vCenter=true&width=800&lines=Automation+Systems+%7C+AI+Utilities;Clean+CLI+Tools+%7C+Workflow+Bots;Engineering+with+Design+Intent" />
@@ -95,5 +109,4 @@ A real-time streaming platform where creators broadcast their unique *zayka* thr
 
 ## 🧪 Masala — Subtle & Classy
 Tiny touches that matter:  
-clean terminal prompts, predictable automation, silent failure-handling, and tools that don't shout — they flow.
-
+clean terminal prompts, predictable automation, silent failure handling, and tools that don't shout — they flow.
