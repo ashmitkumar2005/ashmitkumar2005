@@ -57,23 +57,20 @@
   if: ${{ github.event.inputs.game == 'snake3d' }}
   run: |
     mkdir -p dist
-    cat << 'EOF' > dist/heatmap.svg
+    cat > dist/heatmap.svg << 'EOF'
 <svg width="100%" height="260" viewBox="0 0 1400 260" xmlns="http://www.w3.org/2000/svg">
 
-  <!-- ==== BACKGROUND ==== -->
   <defs>
     <linearGradient id="bgGrad" x1="0" x2="1" y1="0" y2="1">
       <stop offset="0%" stop-color="#0a0f1f"/>
       <stop offset="100%" stop-color="#111827"/>
     </linearGradient>
 
-    <!-- 3D cube shading -->
     <linearGradient id="cube" x1="0" y1="0" x2="1" y2="1">
       <stop offset="0%" stop-color="#1f2937"/>
       <stop offset="100%" stop-color="#111827"/>
     </linearGradient>
 
-    <!-- Snake glow -->
     <linearGradient id="snakeGrad" x1="0" y1="0" x2="1" y2="1">
       <stop offset="0%" stop-color="#22c55e"/>
       <stop offset="100%" stop-color="#4ade80"/>
@@ -82,54 +79,18 @@
 
   <rect width="100%" height="100%" fill="url(#bgGrad)" />
 
-  <!-- ==== 3D GRID ==== -->
+  <!-- == grid == -->
   <g opacity="0.7">
-    <!-- generate 3D grid cubes -->
-    <script type="application/ecmascript"><![CDATA[
-      const svg = document.currentScript.parentNode;
-      let size = 24;
-      for (let x = 0; x < 1400; x += size) {
-        for (let y = 0; y < 260; y += size) {
-          let cube = document.createElementNS("http://www.w3.org/2000/svg","rect");
-          cube.setAttribute("x", x);
-          cube.setAttribute("y", y);
-          cube.setAttribute("width", size-2);
-          cube.setAttribute("height", size-2);
-          cube.setAttribute("fill", "url(#cube)");
-          svg.appendChild(cube);
-        }
-      }
-    ]]></script>
+    <rect width="26" height="26" x="0" y="0" fill="url(#cube)">
+      <animate attributeName="x" values="0;1400" dur="1s" repeatCount="indefinite" />
+    </rect>
   </g>
 
-  <!-- ==== SNAKE ==== -->
+  <!-- == snake == -->
   <g id="snake">
-    <rect id="snakeHead" x="0" y="120" width="24" height="24" rx="4" fill="url(#snakeGrad)">
+    <rect x="0" y="120" width="24" height="24" rx="4" fill="url(#snakeGrad)">
       <animate attributeName="x"
                values="0;200;400;600;800;1000;1200;1400"
-               dur="6s"
-               repeatCount="indefinite" />
-      <animate attributeName="y"
-               values="120;80;120;160;120"
-               dur="3s"
-               repeatCount="indefinite" />
-    </rect>
-
-    <!-- Tail segments -->
-    <rect x="0" y="120" width="20" height="20" rx="4" fill="#16a34a" opacity="0.8">
-      <animate attributeName="x"
-               values="-30;170;370;570;770;970;1170;1370"
-               dur="6s"
-               repeatCount="indefinite" />
-      <animate attributeName="y"
-               values="120;80;120;160;120"
-               dur="3s"
-               repeatCount="indefinite" />
-    </rect>
-
-    <rect x="0" y="120" width="16" height="16" rx="4" fill="#15803d" opacity="0.6">
-      <animate attributeName="x"
-               values="-60;140;340;540;740;940;1140;1340"
                dur="6s"
                repeatCount="indefinite" />
       <animate attributeName="y"
@@ -141,7 +102,3 @@
 
 </svg>
 EOF
-
-#           build_dir: dist
-#         env:
-#           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
