@@ -53,15 +53,19 @@ Right now, I’m focused on building a strong base in:
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=ashmitkumar2005&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true"
-    style="max-width: 100%; height: auto;"
-  />
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashmitkumar2005&layout=compact&theme=radical&hide_border=true"
-    style="max-width: 100%; height: auto;"
-  />
+
+<img
+  src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=ashmitkumar2005&show_icons=true&theme=radical&hide_border=true"
+  style="max-width: 100%; height: auto;"
+/>
+
+<img
+  src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=ashmitkumar2005&layout=compact&theme=radical&hide_border=true"
+  style="max-width: 100%; height: auto;"
+/>
+
 </div>
+
 
 ---
 
