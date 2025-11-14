@@ -16,7 +16,7 @@
 
 ---
 
-## 👋 Hey, I'm Ashmit
+## Hey, I'm Ashmit
 
 **AI & Automation nerd • CSE (AI & ML) • Indie builder**
 
@@ -31,7 +31,7 @@ Right now, I’m focused on building a strong base in:
 
 ---
 
-## 🛠 Tech Stack
+## Tech Stack
 
 <div align="center">
 
@@ -50,7 +50,7 @@ Right now, I’m focused on building a strong base in:
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 <div align="center">
 
@@ -69,7 +69,7 @@ Right now, I’m focused on building a strong base in:
 
 ---
 
-## 🟡 Pac-Man on My Contribution Graph (unique animation)
+## Pac-Man on My Contribution Graph (unique animation)
 
 <p align="center">
   <picture>
@@ -85,7 +85,7 @@ Right now, I’m focused on building a strong base in:
 
 ---
 
-## 🚀 What I'm Currently Building
+## What I'm Currently Building
 
 - Small automation tools  
 - Browser-task bots  
