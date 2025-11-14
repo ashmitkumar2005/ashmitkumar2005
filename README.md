@@ -1,10 +1,6 @@
 <!-- ====== HERO BANNER + TYPING ====== -->
 <p align="center">
-  <img
-    src="https://capsule-render.vercel.app/api?type=waving&color=0:22c55e,100:0f172a&height=230&section=header&text=Ashmit%20👋&fontSize=40&fontAlignY=35&desc=Automating%20Everything&descAlign=50&descSize=18&animation=fadeIn"
-    alt="header"
-    style="max-width: 100%; height: auto;"
-  />
+  <img src="https://raw.githubusercontent.com/ashmitkumar2005/ashmitkumar2005/main/assets/glass-header.svg" width="100%" />
 </p>
 
 <p align="center">
