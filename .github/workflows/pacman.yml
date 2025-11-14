@@ -6,7 +6,7 @@ on:
       game:
         description: "Which game to render?"
         required: true
-        default: "pacman"
+        default: "snake3d"
         type: string
 
 jobs:
