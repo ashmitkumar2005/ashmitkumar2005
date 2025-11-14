@@ -6,34 +6,58 @@ on:
   workflow_dispatch:
 
 jobs:
-  run:
+  generate-pacman:
     runs-on: ubuntu-latest
     permissions:
       contents: write
 
     steps:
-      - name: Checkout
-        uses: actions/checkout@v3
+      - name: Checkout repository
+        uses: actions/checkout@v4
 
-      - name: Generate Pac-Man Animation (GIF)
-        uses: kazukimatsumoto/pacman-contribution-anim@v1
+      - name: Setup Python
+        uses: actions/setup-python@v4
         with:
-          github_user_name: ashmitkumar2005
-          fps: 40
-          cell_size: 12
-          trail: true
-          theme: pacman
+          python-version: '3.x'
 
-      - name: Create output directory
-        run: mkdir -p output
+      - name: Generate Pac-Man Animation
+        run: |
+          pip install requests pillow
+          python -c "
+          import requests
+          from PIL import Image, ImageDraw
+          import math
+          import os
+          
+          # Create a simple Pac-Man animation
+          frames = []
+          width, height = 200, 200
+          
+          for i in range(20):
+              img = Image.new('RGB', (width, height), color='black')
+              d = ImageDraw.Draw(img)
+              
+              # Draw Pac-Man
+              start_angle = 45 * math.sin(i * 0.3)
+              end_angle = 360 - start_angle
+              d.pieslice([50, 50, 150, 150], start_angle, end_angle, fill='yellow')
+              
+              frames.append(img)
+          
+          # Save as GIF
+          frames[0].save('output/pacman.gif',
+                        save_all=True,
+                        append_images=frames[1:],
+                        duration=100,
+                        loop=0)
+          "
 
-      - name: Move GIF to output branch folder
-        run: mv pacman.gif output/pacman.gif
-
-      - name: Push to output branch
-        uses: crazy-max/ghaction-github-pages@v2
-        with:
-          target_branch: output
-          build_dir: output
+      - name: Commit and push animation
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          git add output/pacman.gif
+          git commit -m "Update Pac-Man animation" || exit 0
+          git push
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
