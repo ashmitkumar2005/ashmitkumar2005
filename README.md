@@ -28,7 +28,7 @@ I build automation‑first tools, AI‑assisted utilities, and clean CLI experie
 
 ---
 
-**Subtle fun:**
+**Commit. Eat. Repeat.**
 
 ![Pac‑Man Contribution Graph](https://raw.githubusercontent.com/ashmitkumar2005/ashmitkumar2005/output/pacman-contribution-graph.svg)
 
