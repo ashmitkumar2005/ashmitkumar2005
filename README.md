@@ -1,4 +1,4 @@
-![Hero Banner](https://capsule-render.vercel.app/api?type=waving&height=220&text=Ashmit%20—%20Automation%20•%20AI%20•%20Tooling&fontSize=36&fontAlign=50&fontAlignY=40&color=0:6B9BF3,50:B38CF7,100:FF7EC3&textBg=false&desc=Calm%20interfaces.%20Useful%20automation.%20Native-feel%20tools.&descAlign=50&descAlignY=65&section=header)
+![Hero Banner](https://capsule-render.vercel.app/api?type=waving&height=220&width=1400&text=Ashmit%20—%20Automation%20•%20AI%20•%20Tooling&fontSize=36&fontAlign=50&fontAlignY=40&color=0:6B9BF3,50:B38CF7,100:FF7EC3&textBg=false&desc=Calm%20interfaces.%20Useful%20automation.%20Native-feel%20tools.&descAlign=50&descAlignY=65&section=header)
 
 [![Typing Title](https://readme-typing-svg.demolab.com?font=SF+Pro+Display&size=22&pause=900&color=7C93F9&center=true&vCenter=true&width=800&lines=Automation+Systems+%7C+AI+Utilities;Clean+CLI+Tools+%7C+Workflow+Bots;Engineering+with+Design+Intent)](https://github.com/ashmitkumar2005)
 
@@ -72,4 +72,4 @@ Quiet touches that matter: clean terminal prompts, predictable automation, silen
 
 Built with ♥ on macOS‑inspired design.
 
-![Footer Wave](https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:6B9BF3,50:B38CF7,100:FF7EC3)
+![Footer Wave](https://capsule-render.vercel.app/api?type=waving&height=120&width=1400&section=footer&color=0:6B9BF3,50:B38CF7,100:FF7EC3)
