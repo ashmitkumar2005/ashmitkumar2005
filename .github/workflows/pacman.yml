@@ -6,29 +6,29 @@ on:
   workflow_dispatch:
 
 jobs:
-  build-pacman:
+  run:
     runs-on: ubuntu-latest
     permissions:
       contents: write
 
     steps:
-      - name: Checkout repository
+      - name: Checkout
         uses: actions/checkout@v3
 
-      - name: Generate Ultra Smooth Pac-Man GIF
-        uses: yoshi389111/github-profile-3d-contrib@main
+      - name: Generate Pac-Man Animation (GIF)
+        uses: kazukimatsumoto/pacman-contribution-anim@v1
         with:
-          token: ${{ secrets.GITHUB_TOKEN }}
-          user_name: ashmitkumar2005
-          output_type: 'pacman'
-          fps: 45
-          grid: 'yes'
+          github_user_name: ashmitkumar2005
+          fps: 40
+          cell_size: 12
+          trail: true
+          theme: pacman
 
-      - name: Create output folder
+      - name: Create output directory
         run: mkdir -p output
 
-      - name: Move generated file
-        run: mv profile-3d-contrib/pacman.gif output/pacman.gif
+      - name: Move GIF to output branch folder
+        run: mv pacman.gif output/pacman.gif
 
       - name: Push to output branch
         uses: crazy-max/ghaction-github-pages@v2
