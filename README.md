@@ -1,7 +1,7 @@
 <!-- ====== HERO BANNER + TYPING ====== -->
 <p align="center">
   <img
-    src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:22c55e&height=230&section=header&text=Ashmit%20👋&fontSize=40&fontAlignY=35&desc=AI%20%26%20Automation%20Enthusiast%20|%20CSE%20%40%20LPU&descAlign=50&descSize=18&animation=twinkling"
+    src="https://capsule-render.vercel.app/api?type=waving&color=0:22c55e,100:0f172a&height=230&section=header&text=Ashmit%20👋&fontSize=40&fontAlignY=35&desc=Automating%20Everything&descAlign=50&descSize=18&animation=fadeIn"
     alt="header"
     style="max-width: 100%; height: auto;"
   />
