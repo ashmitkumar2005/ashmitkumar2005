@@ -1,9 +1,9 @@
 name: Generate Pac-Man Contribution Graph
 
 on:
-  schedule:          # har 24 ghante auto chalega
-    - cron: "0 */24 * * *"
-  workflow_dispatch: # manually bhi run kar sakta hai
+  schedule:
+    - cron: "0 */24 * * *"   # runs every 24 hours
+  workflow_dispatch:
   push:
     branches:
       - main
@@ -16,12 +16,18 @@ jobs:
       contents: write
 
     steps:
-      - name: Generate pacman-contribution-graph.svg
+      - name: Checkout repo
+        uses: actions/checkout@v3
+
+      - name: Generate Pac-Man SVG (Smooth Mode)
         uses: abozanona/pacman-contribution-graph@main
         with:
           github_user_name: ${{ github.repository_owner }}
+          smooth_paths: true
+          path_thickness: 1.8
+          path_color: "#000000"
 
-      - name: Push pacman-contribution-graph.svg to output branch
+      - name: Publish Pac-Man SVG to output branch
         uses: crazy-max/ghaction-github-pages@v2.1.3
         with:
           target_branch: output
