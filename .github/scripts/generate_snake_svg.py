@@ -64,7 +64,7 @@ def build_svg(grid, out_path, cell=12, gap=3, margin=20):
     grad.add_stop_color(1, "#ff7a00")
     defs.add(grad)
 
-    dwg.add(dwg.rect(insert=(0,0), size=(width, height), fill="transparent"))
+    dwg.add(dwg.rect(insert=(0,0), size=(width, height), fill="none"))
 
     dwg.add(dwg.text(
         "snake contribution graph",
