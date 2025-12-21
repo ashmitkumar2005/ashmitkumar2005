@@ -20,11 +20,11 @@ I build automation‑first tools, AI‑assisted utilities, and clean CLI experie
 
 ## Tech Stack
  
-- Languages: Python, JavaScript
+- Languages: Python, JavaScript, Next.js
 - Runtime: Node.js
 - Frontend: HTML5, CSS3
 - DevOps: Linux
-- Tools: Git, Bash, VS Code
+- Tools: Git, Bash, VS Code,Telegram API
 
 ---
 
