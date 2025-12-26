@@ -2,7 +2,27 @@
 
 [![Typing Title](https://readme-typing-svg.demolab.com?font=SF+Pro+Display&size=22&pause=900&color=7C93F9&center=true&vCenter=true&width=800&lines=Automation+Systems+%7C+AI+Utilities;Clean+CLI+Tools+%7C+Workflow+Bots;Engineering+with+Design+Intent)](https://github.com/ashmitkumar2005)
 
+
 I build automation‑first tools, AI‑assisted utilities, and clean CLI experiences that feel native—minimal, calm, and intentional.
+
+<p align="center" style="margin-top:12px; font-size:14px;">
+  <a href="https://ashmit-kumar.vercel.app" target="_blank" style="text-decoration:none;">
+    <span style="color:#ffffff; font-weight:500;">Portfolio</span>
+  </a>
+  &nbsp;&nbsp;·&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/ashmit-kumar" target="_blank" style="text-decoration:none;">
+    <span style="color:#ffffff; font-weight:500;">LinkedIn</span>
+  </a>
+  &nbsp;&nbsp;·&nbsp;&nbsp;
+  <a href="https://drive.google.com/file/d/YOUR_RESUME_ID/view" target="_blank" style="text-decoration:none;">
+    <span style="color:#ffffff; font-weight:500;">Resume</span>
+  </a>
+  &nbsp;&nbsp;·&nbsp;&nbsp;
+  <a href="https://topmate.io/ashmitkumar2005" target="_blank" style="text-decoration:none;">
+    <span style="color:#ffffff; font-weight:600;">Connect 1:1</span>
+  </a>
+</p>
+
 
 ---
 
