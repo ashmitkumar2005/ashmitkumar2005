@@ -14,7 +14,7 @@ I build automation‑first tools, AI‑assisted utilities, and clean CLI experie
     <span style="color:#ffffff; font-weight:500;">LinkedIn</span>
   </a>
   &nbsp;&nbsp;·&nbsp;&nbsp;
-  <a href="https://drive.google.com/file/d/YOUR_RESUME_ID/view" target="_blank" style="text-decoration:none;">
+  <a href="https://drive.google.com/file/d/1eg1fr1Qv4DKUHBTAukjwgP0KFq7kfmMP/view?usp=sharing" target="_blank" style="text-decoration:none;">
     <span style="color:#ffffff; font-weight:500;">Resume</span>
   </a>
   &nbsp;&nbsp;·&nbsp;&nbsp;
