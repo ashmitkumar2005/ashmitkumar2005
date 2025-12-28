@@ -50,7 +50,12 @@ I build automation‑first tools, AI‑assisted utilities, and clean CLI experie
 
 **Commit. Eat. Repeat.**
 
-![Pac‑Man Contribution Graph](https://raw.githubusercontent.com/ashmitkumar2005/ashmitkumar2005/output/pacman-contribution-graph.svg)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ashmitkumar2005/ashmitkumar2005/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ashmitkumar2005/ashmitkumar2005/output/pacman-contribution-graph.svg">
+  <img alt="Pac-Man Contribution Graph" src="https://raw.githubusercontent.com/ashmitkumar2005/ashmitkumar2005/output/pacman-contribution-graph.svg">
+</picture>
+
 
 ## GitHub Highlights
 
