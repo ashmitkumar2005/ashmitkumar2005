@@ -1,4 +1,4 @@
-name: Generate Pac-Man Contribution Graph (Light + Dark)
+name: Generate Pac-Man Contribution Graph (Light + Dark Strip)
 
 on:
   schedule:
@@ -19,6 +19,9 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v3
 
+      # =========================
+      # LIGHT MODE (Normal Clean)
+      # =========================
       - name: Generate Pac-Man SVG (Light Mode)
         uses: abozanona/pacman-contribution-graph@main
         with:
@@ -39,26 +42,32 @@ jobs:
 
           output_name: pacman-light
 
-      - name: Generate Pac-Man SVG (Dark Mode)
+      # ======================================
+      # DARK MODE (NO MONTHS / DARK STRIP LOOK)
+      # ======================================
+      - name: Generate Pac-Man SVG (Dark Strip Mode)
         uses: abozanona/pacman-contribution-graph@main
         with:
           github_user_name: ${{ github.repository_owner }}
 
           smooth_paths: true
-          path_thickness: 2.2
-          path_color: "#e5e7eb"
+          path_thickness: 2.0
+          path_color: "#0d1117"        # maze invisible
 
-          pacman_color: "#facc15"
-          ghost_color_style: "classic"
+          pacman_color: "#0d1117"      # pacman hidden
+          ghost_color_style: "classic" # ghosts merge into bg
 
-          grid_color: "#374151"
-          background_color: "transparent"
+          grid_color: "#f0f6fc"        # bright cells
+          background_color: "#0d1117"  # solid dark strip (GitHub dark bg)
 
           cell_size: 12
           spacing: 3
 
           output_name: pacman-dark
 
+      # =================
+      # PUBLISH BOTH SVGs
+      # =================
       - name: Publish Pac-Man SVGs to output branch
         uses: crazy-max/ghaction-github-pages@v2.1.3
         with:
