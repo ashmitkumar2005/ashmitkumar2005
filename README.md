@@ -57,11 +57,6 @@ I build automation‑first tools, AI‑assisted utilities, and clean CLI experie
 </picture>
 
 
-## GitHub Highlights
-
-![Stats](https://github-readme-stats.vercel.app/api?username=ashmitkumar2005&show_icons=true&theme=transparent&hide_border=true&title_color=7C93F9&icon_color=7C93F9&text_color=9aa0a6)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ashmitkumar2005&layout=compact&theme=transparent&hide_border=true&title_color=7C93F9&text_color=9aa0a6)
-
 
 ---
 
