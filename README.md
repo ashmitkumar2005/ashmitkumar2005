@@ -3,8 +3,7 @@
 [![Typing Title](https://readme-typing-svg.demolab.com?font=SF+Pro+Display&size=22&pause=900&color=7C93F9&center=true&vCenter=true&width=800&lines=Automation+Systems+%7C+AI+Utilities;Clean+CLI+Tools+%7C+Workflow+Bots;Engineering+with+Design+Intent)](https://github.com/ashmitkumar2005)
 
 
-Automation-heavy systems and AI utilities that slip inside workflows—clean, calm, dominant.
-
+Automation-heavy systems and AI utilities that slide deep into workflows—minimal on the surface, controlled underneath, quietly dominant.
 <p align="center" style="margin-top:12px; font-size:14px;">
   <a href="https://ashmit-kumar.vercel.app" target="_blank" style="text-decoration:none;">
     <span style="color:#ffffff; font-weight:500;">Portfolio</span>
