@@ -26,6 +26,16 @@ I build automation‑first tools, AI‑assisted utilities, and clean CLI experie
 
 ---
 
+## What I’m Grinding 4U Right Now:
+
+🔗 [FreeAPI](https://github.com/ashmitkumar2005/FreeAPI)
+
+> FreeAPI doesn’t flirt with limits. It wrecks them.
+> FreeAPI keeps pushing till the backend gives in.
+
+---
+
+
 ## What I Do
 
 > Focused, reliable systems that blend into your workflow.
