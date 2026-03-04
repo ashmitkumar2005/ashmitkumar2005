@@ -27,6 +27,10 @@ Automation-heavy systems and AI utilities that slide deep into workflows—minim
 
 ## What I’m Grinding 4U Right Now:
 
+[LPU ReTouch](https://github.com/ashmitkumar2005/lpuretouch)
+
+> Stripping lag, ditching bloat, sliding a faster UI deep into campus workflows.
+
 [FreeAPI](https://github.com/ashmitkumar2005/FreeAPI)
 
 > FreeAPI doesn’t flirt with limits. It wrecks them.It keeps pushing till the backend gives in.
