@@ -5,11 +5,11 @@
 
 Automation-heavy systems and AI utilities that slide deep into workflows—minimal on the surface, controlled underneath, quietly dominant.
 <p align="center" style="margin-top:12px; font-size:14px;">
-  <a href="https://ashmit-kumar.vercel.app" target="_blank" style="text-decoration:none;">
+  <a href="https://ashmit.xrivis.in" target="_blank" style="text-decoration:none;">
     <span style="color:#ffffff; font-weight:500;">Portfolio</span>
   </a>
   &nbsp;&nbsp;·&nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/ashmit-kumar" target="_blank" style="text-decoration:none;">
+  <a href="https://www.linkedin.com/in/ashmitkumar2005" target="_blank" style="text-decoration:none;">
     <span style="color:#ffffff; font-weight:500;">LinkedIn</span>
   </a>
   &nbsp;&nbsp;·&nbsp;&nbsp;
